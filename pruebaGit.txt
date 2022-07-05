@@ -1,0 +1,5 @@
+Hola, estoy comenzando 
+a utilizar Git
+para implementarlo 
+en mis proyectos
+de programación.
